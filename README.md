@@ -3,7 +3,7 @@
 ## Important Information
 
 To view the version history and development stages of the project, view the reopsitory [here](https://github.com/Marling-CS-Projects/Ben-Fielder-A-Level-Project)
-and view the project's documentation [here](https://marling-school.gitbook.io/ben-fielder-project/mwuMyra54ckM6LNoVF1W/). The game is no longer being hosted on heroku, so the link in playing the game will not work.
+and view the project's documentation [here](https://marling-school.gitbook.io/ben-fielder-project/mwuMyra54ckM6LNoVF1W/). The game is no longer being hosted on heroku, so the link under the playing the game heading will not work.
 
 ## Build instructions
 
